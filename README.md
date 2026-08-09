@@ -2,4 +2,7 @@
 My solutions for [Deep-ML](https://www.deep-ml.com/) platform challenges.
 
 ## 📊 Progress
-![Deep-ML Progress](assets/deepml_stats.jpeg)
+
+<div align="center">
+  <img src="./assets/deepml_stats.jpeg" width="50%">
+</div>
